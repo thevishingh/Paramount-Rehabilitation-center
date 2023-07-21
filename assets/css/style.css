@@ -2430,7 +2430,8 @@ textarea:focus::placeholder {
 }
 
 .banner {
-  background: url(../images/banner-bg-1.jpg) bottom center no-repeat;
+  /* background: url(../images/banner-bg-1.jpg) bottom center no-repeat; */
+  background: url(../newimages/banner/banner.jpg) bottom center no-repeat;
   background-size: cover;
 }
 
